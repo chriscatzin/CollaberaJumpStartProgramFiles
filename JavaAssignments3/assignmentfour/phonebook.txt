@@ -1,0 +1,10 @@
+name            phone number    city           
+chris          243-343-1231   312-232-2414   
+name            phone number    city           
+issic          242-432-2142   compton        
+name            phone number    city           
+bryan          432-534-1312   oakland        
+name            phone number    city           
+tyrone         433-123-2141   ny             
+name            phone number    city           
+idk            434-343-1421   dallas         

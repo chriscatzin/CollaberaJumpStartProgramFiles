@@ -1,0 +1,3 @@
+interface frameDefault {
+    void getDefault();
+}

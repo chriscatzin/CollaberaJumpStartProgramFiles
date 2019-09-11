@@ -1,0 +1,4 @@
+interface getTheRolls {
+    int[] fetchRolls ();
+}
+

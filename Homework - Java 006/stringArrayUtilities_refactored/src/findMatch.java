@@ -1,0 +1,3 @@
+interface findMatch {
+    boolean getMatch();
+}

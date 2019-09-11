@@ -1,0 +1,3 @@
+interface forLoop {
+    String playerTurns();
+}

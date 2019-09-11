@@ -1,0 +1,3 @@
+interface getRoll {
+    int playerRoll();
+}

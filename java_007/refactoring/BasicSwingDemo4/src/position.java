@@ -1,0 +1,3 @@
+interface position {
+    String getposition();
+}

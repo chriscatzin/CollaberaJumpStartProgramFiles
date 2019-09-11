@@ -1,0 +1,52 @@
+* The arrow operator reduces the function defining code size, so less code and more functionality.
+
+Example:
+
+
+Before:
+hello = function(){
+	return "Hello World";
+}
+
+After:
+hello = () => {
+	return "Hello World";
+}
+
+============== Another Code Example ======================
+
+<script> 
+	//The arrow operator (=>) reduces the size of the code.
+  
+    //ES6 Version  
+    //Do not need to put curly braces for one line functions 
+    set DoubleSize = (sz)=>size=2*sz; 
+      
+    //Sets value of size equivalent to double of 
+    //passed argument in setDoubleSize function 
+    set DoubleSize(35); 
+    document.write(size);     
+      
+</script> 
+
+==============================================================
+
+Key Feature: => 
+* Arrow functions are anonymous and change the way "this" binds in functions.
+* Similar or relatable with the "this" operator.
+* you can often use them in place of expressions like function (foo) {...}
+
+
+======= Advantages =====================================
+* The arrow operator reduces code size.
+* Drop the Function braces for one line Functions.
+* No need to define return statement in one line Functions.
+* Increase the speed of the program.
+* Server Load
+* Rich Interfaces
+* Simplicity
+
+============= Disadvantages ==============================
+* Client-Side Security because the code executes on the users’ computer, in some cases it can be exploited for malicious purposes. This is one reason some people choose to disable Javascript.
+
+* Browser Support because JavaScript is sometimes interpreted differently by different browsers. Whereas server-side scripts will always produce the same output, client-side scripts can be a little unpredictable. 

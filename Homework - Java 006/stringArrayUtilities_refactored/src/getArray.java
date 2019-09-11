@@ -1,0 +1,3 @@
+interface getArray {
+    int[] getNewArray();
+}

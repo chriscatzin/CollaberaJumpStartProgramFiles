@@ -1,0 +1,3 @@
+interface valueLamb {
+    String getValue();
+}

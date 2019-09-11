@@ -1,0 +1,3 @@
+interface players {
+    boolean getStats();
+}
